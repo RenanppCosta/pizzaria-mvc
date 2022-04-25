@@ -1,0 +1,25 @@
+{
+  "name": "pizzaria-mvc",
+  "version": "1.0.0",
+  "description": "Pagina de uma pizzaria usando express, ejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanppCosta/pizzaria-mvc.git"
+  },
+  "author": "Renan Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanppCosta/pizzaria-mvc/issues"
+  },
+  "homepage": "https://github.com/RenanppCosta/pizzaria-mvc#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}

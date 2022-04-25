@@ -144,7 +144,7 @@ Fase 8 - Mostrando as pizzas dinamicamente a partir de um arquivo JSON:
         Obs:
             Ainda não alteraremos o link <a href="pizza.html">Ver Mais</a>
         ☐ Apague todos os elementos article que estiverem fora do for.
-    
+    ESTAMOS AQUI
     Verificações:
         Com o sevidor rodando, visite o endereço https://localhost:3000
         Você deve ver o a página exibindo as pizzas, mas com preços apenas
@@ -158,7 +158,7 @@ Fase 9 - Criando uma página para mostrar detalhes de uma pizza:
         Essa função deve:
             ☐ Capturar o id da pizza desejada pelo usuário (req.params.id) numa variável id
             ☐ Buscar no array de pizzas a pizza tem o id buscado e guardar numa variável pizza
-                Dica: pizzas.find(p=>p.id==id)
+             paramos aq   Dica: pizzas.find(p=>p.id==id)
             ☐ Renderizar a view pizza.ejs, passando para ela também a variável pizza
 
     ☐ Na pasta views, crie o arquivo pizza.ejs
